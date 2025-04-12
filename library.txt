@@ -1,0 +1,11 @@
+[
+    {
+        "title": "Quran",
+        "author": "Allah subhan o tallah",
+        "year": 1000,
+        "genre": "religious",
+        "read": true,
+        "rating": 5,
+        "date_added": "2025-04-13 02:13:58"
+    }
+]
